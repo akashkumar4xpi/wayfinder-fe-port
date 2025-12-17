@@ -14,6 +14,6 @@ export default function robots(): MetadataRoute.Robots {
                 '/private/',  // Private folder mat scan karo
             ],
         },
-        sitemap: `${baseUrl}/sitemap.xml`, // Sitemap ka link taaki Google rasta dhund sake
+        sitemap: `${baseUrl}/sitemap.xml`, // Sitemap ka link taaki Google rasta dhund sake 
     }
 }
